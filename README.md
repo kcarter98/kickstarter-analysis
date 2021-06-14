@@ -24,7 +24,7 @@ Here I looked into the relation of goal amount set by a campaign to its outcome.
 
 ### Challenges and Difficulties Encountered
 
-Here there were not much challenges encountered, as the data was pretty clean to start. The only difficulties I had were converting timestamps into readable dates.
+Here there were not much challenges encountered, as the data was pretty clean to start. The only difficulties I had were converting timestamps into readable dates. This was overcome by finding that they were linux time stamps and converting them with an excel formula.
 
 ## Results
 
