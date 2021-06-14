@@ -14,13 +14,13 @@ The purpose of this project is to provide insights on how kickstarter projects f
 
 In this analysis, I created a pivot table for the kickstarter data with the additional year column based on the launch date. In this pivot table, I filtered the projects that only include a parent category based on theater, separated the data based on month of launch, and analyzed how many successful, failed, and canceled campaigns in each month. Lastly, I created a line chart with markers at each month to show trends over the year, and this chart can be pictured below.
 
-(/resources/Theater_Outcomes_vs_Launch.png)
+![Image1](/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 Here I looked into the relation of goal amount set by a campaign to its outcome. A chart was created using the countifs function to count all outcomes in set goal ranges of campaigns within the plays subcategory. Then, percentages were analyzed to look at the total share of outcomes within each goal range. Lastly, a line chart was created to show the percentage of each outcome compared to the total cmapaigns in the set of goals.
 
-(/resources/Outcomes_vs_Goals.png)
+![Image2](/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
